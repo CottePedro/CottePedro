@@ -18,9 +18,9 @@
 </div>
 
 ## Sobre mim
-- Nome: Pedro Cardozo
+- Nome: Pedro Cotte
 
-- Localização: Mato Grosso do Sul, Brasil
+- Localização: Brasil
 
 - Profissão: Desenvolvedor Web
 
